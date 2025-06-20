@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zone-wallet-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88442f3a451e7a1661912d0071b37cb1394c2a6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e3e5ee53cf8e150dadba04b3293738dafe31ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("zone-wallet-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zone-wallet-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

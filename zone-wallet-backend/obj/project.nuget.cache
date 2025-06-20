@@ -1,11 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "eoFr55SsMEA=",
+  "dgSpecHash": "rm9Co+9dxq8=",
   "success": true,
   "projectFilePath": "C:\\Users\\chidu\\OneDrive\\Documents\\ZONE_WALLET\\ZONE_WALLET_BACKEND\\zone-wallet-backend\\zone-wallet-backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\chidu\\.nuget\\packages\\adraffy.ensnormalize\\0.1.5\\adraffy.ensnormalize.0.1.5.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\chidu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "C:\\Users\\chidu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\chidu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nbitcoin.secp256k1\\3.1.1\\nbitcoin.secp256k1.3.1.1.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.abi\\5.0.0\\nethereum.abi.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.accounts\\5.0.0\\nethereum.accounts.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.blockchainprocessing\\5.0.0\\nethereum.blockchainprocessing.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.contracts\\5.0.0\\nethereum.contracts.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.hex\\5.0.0\\nethereum.hex.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.jsonrpc.client\\5.0.0\\nethereum.jsonrpc.client.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.jsonrpc.rpcclient\\5.0.0\\nethereum.jsonrpc.rpcclient.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.keystore\\5.0.0\\nethereum.keystore.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.merkle.patricia\\5.0.0\\nethereum.merkle.patricia.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.model\\5.0.0\\nethereum.model.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.rlp\\5.0.0\\nethereum.rlp.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.rpc\\5.0.0\\nethereum.rpc.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.signer\\5.0.0\\nethereum.signer.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.signer.eip712\\5.0.0\\nethereum.signer.eip712.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.util\\5.0.0\\nethereum.util.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.util.rest\\5.0.0\\nethereum.util.rest.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\nethereum.web3\\5.0.0\\nethereum.web3.5.0.0.nupkg.sha512",
+    "C:\\Users\\chidu\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
   ],
   "logs": []
 }
