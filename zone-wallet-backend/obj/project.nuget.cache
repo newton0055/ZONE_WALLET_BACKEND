@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rm9Co+9dxq8=",
+  "dgSpecHash": "oj7aR8L7n8Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chidu\\OneDrive\\Documents\\ZONE_WALLET\\ZONE_WALLET_BACKEND\\zone-wallet-backend\\zone-wallet-backend.csproj",
+  "projectFilePath": "C:\\Users\\chidu\\OneDrive\\Documents\\ZONE_WALLET_FULLSTACK\\ZONE_WALLET_BACKEND\\zone-wallet-backend\\zone-wallet-backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chidu\\.nuget\\packages\\adraffy.ensnormalize\\0.1.5\\adraffy.ensnormalize.0.1.5.nupkg.sha512",
     "C:\\Users\\chidu\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
